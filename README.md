@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-11-orange.svg" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/IMDb%20API-API%20Key-red.svg" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <h1 align="center">Imersão Java Alura</h1>
